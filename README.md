@@ -2,7 +2,7 @@ recotw submit
 ========
 
 ## なんじゃこれ
-黒歴史投稿サービス [RecoTw](http://recotw.black) に、twiccaや互換インターフェースを搭載したクライアントから黒歴史ツイートを登録するアプリです。
+黒歴史投稿サービス [RecoTw](http://recotw.black) に、twiccaや互換インターフェースを搭載したクライアントから黒歴史ツイートを登録するアプリです。  
 ついでに、ユーザプロフィール画面から [Recotw Explorer](http://recotw.chitoku.jp) を開けるようにもします。
 
 ## インストール
@@ -14,6 +14,5 @@ recotw submit
 3. 確認ダイアログでOKボタンを笑顔で押し込む
 4. Good job.
 
-## FAQ
-Q. なんで使っているAndroid APIがとても古いの?
-A. こんなクソアプリに誰も容量割きたくないでしょう? ならsupport-v4は無しですよ。 あとはこれ書いた時Android2.3ユーザいたんですよ。
+## 蛇足
+使ってるAPIが古いのは、Android 2.3対応かつ省容量APKにしたかったから。
